@@ -1,0 +1,11 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sim_1/new/tb.v,1748943932,verilog,,,,tb,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sources_1/ip/OutputBuffer/sim/OutputBuffer.v,1748941180,verilog,,C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sources_1/new/axis_gaussian.v,,OutputBuffer,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sources_1/new/axis_gaussian.v,1748943287,verilog,,C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sources_1/new/gaussian.v,,axis_gaussian,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sources_1/new/gaussian.v,1748945007,verilog,,C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sources_1/new/gaussian_control.v,,gaussian,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sources_1/new/gaussian_control.v,1748944992,verilog,,C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sources_1/new/line_buffer.v,,gaussian_control,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sources_1/new/line_buffer.v,1748944971,verilog,,C:/Users/osher/Verilog_Projects/AXIS_GAUSSIAN_IP/AXIS_GAUSSIAN_IP.srcs/sim_1/new/tb.v,,line_buffer,,,,,,,,

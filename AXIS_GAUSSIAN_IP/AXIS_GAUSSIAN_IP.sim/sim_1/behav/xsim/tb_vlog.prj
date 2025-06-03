@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../AXIS_GAUSSIAN_IP.srcs/sources_1/ip/OutputBuffer/sim/OutputBuffer.v" \
+"../../../../AXIS_GAUSSIAN_IP.srcs/sources_1/new/axis_gaussian.v" \
+"../../../../AXIS_GAUSSIAN_IP.srcs/sources_1/new/gaussian.v" \
+"../../../../AXIS_GAUSSIAN_IP.srcs/sources_1/new/gaussian_control.v" \
+"../../../../AXIS_GAUSSIAN_IP.srcs/sources_1/new/line_buffer.v" \
+"../../../../AXIS_GAUSSIAN_IP.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
