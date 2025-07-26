@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Decimal_Counter_3D.srcs/sources_1/new/anode_encoder.v" \
+"../../../../Decimal_Counter_3D.srcs/sources_1/new/comb_logic.v" \
+"../../../../Decimal_Counter_3D.srcs/sources_1/new/counter.v" \
+"../../../../Decimal_Counter_3D.srcs/sources_1/new/divider.v" \
+"../../../../Decimal_Counter_3D.srcs/sources_1/new/mux_4x1.v" \
+"../../../../Decimal_Counter_3D.srcs/sources_1/new/seven_seg_decoder.v" \
+"../../../../Decimal_Counter_3D.srcs/sources_1/new/shift_reg.v" \
+"../../../../Decimal_Counter_3D.srcs/sources_1/new/decimal_counter.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

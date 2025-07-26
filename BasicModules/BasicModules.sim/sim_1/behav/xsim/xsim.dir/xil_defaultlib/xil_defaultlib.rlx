@@ -1,0 +1,10 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/osher/Verilog_Projects/BasicModules/BasicModules.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/osher/Verilog_Projects/BasicModules/BasicModules.srcs/sim_1/new/tb.v,1748439775,verilog,,,,tb,,,,,,,,
+C:/Users/osher/Verilog_Projects/BasicModules/BasicModules.srcs/sources_1/new/and_gate.v,1748433570,verilog,,C:/Users/osher/Verilog_Projects/BasicModules/BasicModules.srcs/sim_1/new/tb.v,,and_gate,,,,,,,,
+C:/Users/osher/Verilog_Projects/BasicModules/BasicModules.srcs/sources_1/new/d_flip_flop.v,1748439580,verilog,,C:/Users/osher/Verilog_Projects/BasicModules/BasicModules.srcs/sim_1/new/tb.v,,d_flip_flop,,,,,,,,
+C:/Users/osher/Verilog_Projects/BasicModules/BasicModules.srcs/sources_1/new/full_adder.v,1748434139,verilog,,C:/Users/osher/Verilog_Projects/BasicModules/BasicModules.srcs/sim_1/new/tb.v,,full_adder,,,,,,,,
+C:/Users/osher/Verilog_Projects/BasicModules/BasicModules.srcs/sources_1/new/mux2x1.v,1748433870,verilog,,C:/Users/osher/Verilog_Projects/BasicModules/BasicModules.srcs/sim_1/new/tb.v,,mux2x1,,,,,,,,

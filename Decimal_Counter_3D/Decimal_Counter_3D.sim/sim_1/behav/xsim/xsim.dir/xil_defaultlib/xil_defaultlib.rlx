@@ -1,0 +1,13 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/anode_encoder.v,1752403787,verilog,,C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/comb_logic.v,,anode_encoder,,,,,,,,
+C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/comb_logic.v,1752401445,verilog,,C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/counter.v,,comb_logic,,,,,,,,
+C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/counter.v,1752401105,verilog,,C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/divider.v,,counter,,,,,,,,
+C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/decimal_counter.v,1752404030,verilog,,,,decimal_counter,,,,,,,,
+C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/divider.v,1752399829,verilog,,C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/mux_4x1.v,,divider,,,,,,,,
+C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/mux_4x1.v,1752403785,verilog,,C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/seven_seg_decoder.v,,mux_4x1,,,,,,,,
+C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/seven_seg_decoder.v,1752402238,verilog,,C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/shift_reg.v,,seven_seg_decoder,,,,,,,,
+C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/shift_reg.v,1752400356,verilog,,C:/Users/osher/Verilog_Projects/Decimal_Counter_3D/Decimal_Counter_3D.srcs/sources_1/new/decimal_counter.v,,shift_reg,,,,,,,,

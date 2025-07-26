@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/ip/OutputBuffer/sim/OutputBuffer.v" \
+"../../../../AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/new/axis_rgb2gray2binary.v" \
+"../../../../AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/new/gray2binary.v" \
+"../../../../AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/new/rgb2gray.v" \
+"../../../../AXIS_RGB2GRAY2BINARY_IP.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

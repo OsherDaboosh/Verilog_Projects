@@ -1,0 +1,10 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/osher/Verilog_Projects/AXIS_RGB2GRAY2BINARY_IP/AXIS_RGB2GRAY2BINARY_IP.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_RGB2GRAY2BINARY_IP/AXIS_RGB2GRAY2BINARY_IP.srcs/sim_1/new/tb.v,1748940835,verilog,,,,tb,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_RGB2GRAY2BINARY_IP/AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/ip/OutputBuffer/sim/OutputBuffer.v,1748938963,verilog,,C:/Users/osher/Verilog_Projects/AXIS_RGB2GRAY2BINARY_IP/AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/new/axis_rgb2gray2binary.v,,OutputBuffer,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_RGB2GRAY2BINARY_IP/AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/new/axis_rgb2gray2binary.v,1748939324,verilog,,C:/Users/osher/Verilog_Projects/AXIS_RGB2GRAY2BINARY_IP/AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/new/gray2binary.v,,axis_rgb2gray2binary,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_RGB2GRAY2BINARY_IP/AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/new/gray2binary.v,1748938910,verilog,,C:/Users/osher/Verilog_Projects/AXIS_RGB2GRAY2BINARY_IP/AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/new/rgb2gray.v,,gray2binary,,,,,,,,
+C:/Users/osher/Verilog_Projects/AXIS_RGB2GRAY2BINARY_IP/AXIS_RGB2GRAY2BINARY_IP.srcs/sources_1/new/rgb2gray.v,1748935654,verilog,,C:/Users/osher/Verilog_Projects/AXIS_RGB2GRAY2BINARY_IP/AXIS_RGB2GRAY2BINARY_IP.srcs/sim_1/new/tb.v,,rgb2gray,,,,,,,,

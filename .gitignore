@@ -1,0 +1,14 @@
+*.log
+*.bak
+*.vcd
+*.out
+*.jou
+*.wdb
+*.tcl
+*.tmp
+*.orig
+*.bin
+*.elf
+*.o
+*.exe
+*.DS_Store
